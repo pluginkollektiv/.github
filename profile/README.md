@@ -9,5 +9,5 @@ Whatever your skillset, there are lots of ways you can contribute. You'll get at
 [learn more](https://pluginkollektiv.org/get-involved/)
 
 ## More
-:page_with_curl: On [pluginkollektiv.org](https://pluginkollektiv.org/)
+:page_with_curl: On [pluginkollektiv.org](https://pluginkollektiv.org/)<br>
 :speech_balloon: On WordPress.org [profiles.wordpress.org/pluginkollektiv](https://profiles.wordpress.org/pluginkollektiv/)
